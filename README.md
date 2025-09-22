@@ -1,3 +1,5 @@
+- [basic document](https://github.com/JavaProgrammerLB/java-document)
+
 - 创建一个新的项目
 ```
 gradle init \
