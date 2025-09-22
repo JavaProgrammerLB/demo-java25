@@ -3,6 +3,8 @@
 
 [versions]
 guava = "33.4.6-jre"
+fastjson2 = "2.0.52"
 
 [libraries]
 guava = { module = "com.google.guava:guava", version.ref = "guava" }
+fastjson2 = { module = "com.alibaba.fastjson2:fastjson2", version.ref = "fastjson2" }

@@ -19,6 +19,8 @@ repositories {
 dependencies {
     // This dependency is used by the application.
     implementation(libs.guava)
+    // Alibaba fastjson2 JSON library
+    implementation(libs.fastjson2)
 }
 
 testing {
